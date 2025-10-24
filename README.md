@@ -5,6 +5,7 @@ The `IZS embedded widget` is a versatile tool designed and developed for seamles
 ## Table of Contents
 
 - [Usage](#usage)
+- [Demo](#demo)
 - [Support](#support)
 
 ## Usage
@@ -82,6 +83,10 @@ Here is a basic example of how to use the widget:
 </body>
 </html>
 ```
+
+## Demo
+
+You can visit a [demo page](https://info-widget.izs-apps.com/) with integrated IZS 'Info' Embedded Widget to see how it works.
 
 ## Support
 
